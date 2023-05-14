@@ -1,6 +1,6 @@
 ## Hello World!
 
-![Nagiwa Github Stats](https://github-readme-stats.vercel.app/api?username=nagiwa&show_icons=true&theme=radical)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nagiwa&layout=compact&theme=radical)
+![Nagiwa Github Stats](https://github-readme-stats.vercel.app/api?username=nagiwa&show_icons=true&theme=radical)![Nagi GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nagiwa&layout=compact&theme=radical)
 
 ### Linguagens e ferramentas
 #
