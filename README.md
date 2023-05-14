@@ -1,5 +1,5 @@
 ## Hello World!
-![Nagiwa Github Stats](https://github-readme-stats.vercel.app/api?username=nagiwa&show_icons=true&theme=radical)![Nagi GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nagiwa&layout=compact&theme=radical)
+![Nagiwa Github Stats](https://github-readme-stats.vercel.app/api?username=nagiwa&show_icons=true&theme=radical)
 ## OS
 <code><img height="28" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="debian"></code>
 <code><img height="28" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=black" alt="kali linux"></code>
