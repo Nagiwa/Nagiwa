@@ -1,5 +1,4 @@
 # 💫 About Me:
-Tecnólogo em Segurança da Informação;<br>Bacharel em Engenharia da Computação;<br>Entusiasta por matemática pura e aplicada<br>Amante de Estatística :)
 
 
 ## 🌐 Socials:
